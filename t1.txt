@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
 hello
->>>>>>> parent of d52cb59 (Update t1.txt)
