@@ -1,4 +1,1 @@
-<<<<<<< HEAD
 hello
-=======
->>>>>>> parent of 642f823 (update files)
